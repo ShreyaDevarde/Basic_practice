@@ -1,10 +1,9 @@
- """
-    A class is a blueprint for creating objects.
+class Person:
+    """ A class is a blueprint for creating objects.
 
     An instance is an individual object created from the class.
     Each instance stores its own separate data using instance variables.
     """
-    class Person:
     """
     Represents a person with age-related behaviors.
 
